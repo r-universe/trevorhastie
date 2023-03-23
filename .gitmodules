@@ -3,3 +3,58 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gam"]
+	path = gam
+	url = https://github.com/cran/gam
+	shallow = true
+	registered = true
+[submodule "gamsel"]
+	path = gamsel
+	url = https://github.com/cran/gamsel
+	shallow = true
+	registered = true
+[submodule "glmnet"]
+	path = glmnet
+	url = https://github.com/cran/glmnet
+	shallow = true
+	registered = true
+[submodule "ISLR"]
+	path = ISLR
+	url = https://github.com/cran/ISLR
+	shallow = true
+	registered = true
+[submodule "ISLR2"]
+	path = ISLR2
+	url = https://github.com/cran/ISLR2
+	shallow = true
+	registered = true
+[submodule "lars"]
+	path = lars
+	url = https://github.com/cran/lars
+	shallow = true
+	registered = true
+[submodule "mda"]
+	path = mda
+	url = https://github.com/cran/mda
+	shallow = true
+	registered = true
+[submodule "ProDenICA"]
+	path = ProDenICA
+	url = https://github.com/cran/ProDenICA
+	shallow = true
+	registered = true
+[submodule "softImpute"]
+	path = softImpute
+	url = https://github.com/cran/softImpute
+	shallow = true
+	registered = true
+[submodule "sparsenet"]
+	path = sparsenet
+	url = https://github.com/cran/sparsenet
+	shallow = true
+	registered = true
+[submodule "svmpath"]
+	path = svmpath
+	url = https://github.com/cran/svmpath
+	shallow = true
+	registered = true
