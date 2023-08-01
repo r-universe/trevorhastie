@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ISLR"]
+	path = ISLR
+	url = https://github.com/cran/ISLR
+[submodule "ISLR2"]
+	path = ISLR2
+	url = https://github.com/cran/ISLR2
+[submodule "ProDenICA"]
+	path = ProDenICA
+	url = https://github.com/cran/ProDenICA
 [submodule "gam"]
 	path = gam
 	url = https://github.com/cran/gam
@@ -11,21 +20,12 @@
 [submodule "glmnet"]
 	path = glmnet
 	url = https://github.com/cran/glmnet
-[submodule "ISLR"]
-	path = ISLR
-	url = https://github.com/cran/ISLR
-[submodule "ISLR2"]
-	path = ISLR2
-	url = https://github.com/cran/ISLR2
 [submodule "lars"]
 	path = lars
 	url = https://github.com/cran/lars
 [submodule "mda"]
 	path = mda
 	url = https://github.com/cran/mda
-[submodule "ProDenICA"]
-	path = ProDenICA
-	url = https://github.com/cran/ProDenICA
 [submodule "softImpute"]
 	path = softImpute
 	url = https://github.com/cran/softImpute
