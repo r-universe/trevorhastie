@@ -35,3 +35,6 @@
 [submodule "svmpath"]
 	path = svmpath
 	url = https://github.com/cran/svmpath
+[submodule "uniLasso"]
+	path = uniLasso
+	url = https://github.com/trevorhastie/unilasso
